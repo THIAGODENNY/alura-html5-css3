@@ -1,0 +1,14 @@
+.vitrine li {
+    background-color: #FAFFFC;
+    display: inline-block;
+    width: 45%;
+    border: 8px solid #000;
+    margin-right: 16px;
+    margin-bottom: 16px;
+    padding: 16px;
+    box-sizing: border-box;
+}
+
+.vitrine img {
+    width: 100%;
+}
